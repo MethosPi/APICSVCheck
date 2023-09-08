@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+pandasai
+openai
+python-dotenv
+numpy
+langchain
+pypdf
+chromadb
+python-docx
+python-pptx

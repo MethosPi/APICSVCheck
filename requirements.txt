@@ -10,3 +10,4 @@ pypdf
 chromadb
 python-docx
 python-pptx
+flask
